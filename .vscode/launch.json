@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JavaLambda.Main",
+            "projectName": "JavaProgress 2_4b6774a0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Exceptions.Main",
+            "projectName": "JavaProgress 2_4b6774a0"
+        },
+        {
+            "type": "java",
+            "name": "HashMapExample",
+            "request": "launch",
+            "mainClass": "Hashmap.HashMapExample",
+            "projectName": "JavaProgress 2_4b6774a0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Enum.Main",
+            "projectName": "JavaProgress 2_4b6774a0"
+        },
+        {
+            "type": "java",
+            "name": "ChainingMethod",
+            "request": "launch",
+            "mainClass": "ChainingMethod.ChainingMethod",
+            "projectName": "JavaProgress 2_4b6774a0"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
